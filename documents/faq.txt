@@ -1,0 +1,19 @@
+Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page and follow the instructions.
+
+Q: How can I upgrade my subscription?
+A: Go to Billing → Subscription and choose a new plan.
+
+Q: How do I request a refund?
+A: Submit a refund request through Billing Support. Supervisor approval is required.
+
+Q: How can I contact support?
+A: Email support@abctech.com or use Live Chat.
+
+Q: What payment methods are accepted?
+A: Credit Card, Debit Card, UPI, and Bank Transfer.
+
+Q: How long does refund processing take?
+A: Up to 7 business days after approval.
